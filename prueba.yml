@@ -3,11 +3,11 @@ prueba: Hola desde el archivo "prueba.yml" perfil "default" y branch "Master"
 
 ---
 spring:
-	profiles: saludo
+ profiles: saludo
 texto: Hola desde el archivo "prueba.yml" perfil "saludo" y branch "Master"
 
 ---
 spring:
-	profiles: despedida
+ profiles: despedida
 texto: Hola desde el archivo "prueba.yml" perfil "despedida" y branch "Master"
 
